@@ -1,1 +1,1 @@
-# Financial loan data using SQL and PowerBi
+# Financial loan data Analysis  using SQL and PowerBi
