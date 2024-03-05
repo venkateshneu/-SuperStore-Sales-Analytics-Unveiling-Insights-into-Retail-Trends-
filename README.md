@@ -1,1 +1,1 @@
-# SuperStore Sales Analytics Unveiling Insights into Retail Trends 
+# Financial loan data using SQL and PowerBi
