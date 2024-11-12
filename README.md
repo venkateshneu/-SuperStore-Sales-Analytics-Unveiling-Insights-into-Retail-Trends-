@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/104aae6c-f87a-45e8-a802-08ec908c58c4)
+
 # Financial loan data Analysis  using SQL and PowerBi
 
 Project Overview: Utilizing Power BI, SQL, and dynamic measures, I delved into comprehensive loan data to extract valuable insights for the finance industry.
